@@ -1,3 +1,6 @@
+# THIS REPOSITORY HAS BEEN MOVED TO [http://github.com/fair-chem/fairchem/tree/main/src/fairchem/applications/AdsorbML](http://github.com/fair-chem/fairchem/tree/main/src/fairchem/applications/AdsorbML)
+
+
 ## AdsorbML: Accelerating Adsorption Energy Calculations with Machine Learning
 
 ![adsorbml](https://user-images.githubusercontent.com/45150244/213025581-498b459e-9077-42ac-84e1-65ef331555d2.png)
