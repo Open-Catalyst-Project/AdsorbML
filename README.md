@@ -1,5 +1,4 @@
-# THIS REPOSITORY HAS BEEN MOVED TO [http://github.com/fair-chem/fairchem/tree/main/src/fairchem/applications/AdsorbML](http://github.com/fair-chem/fairchem/tree/main/src/fairchem/applications/AdsorbML)
-
+# REPO DEPRECATION: In 2024 the FAIR Chemistry team consolidated its various resources to improve release/testing/availability, and [AdsorbML moved to the fairchem repo](https://github.com/FAIR-Chem/fairchem/tree/main/src/fairchem/applications/AdsorbML). You can find updated documentation on how to use the consolidated resources at https://fair-chem.github.io/
 
 ## AdsorbML: Accelerating Adsorption Energy Calculations with Machine Learning
 
